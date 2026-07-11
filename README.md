@@ -1,88 +1,266 @@
-![logo](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?semt=ais_hybrid&w=740&q=80)
+![Banner](https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1600&q=80)
 
-<h1 align="center">Hi 👋, I'm Yourname</h1>
-<h3 align="center">Passionate Developer | JavaScript | React JS | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Tushar Hansraj Bhagat</h1>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">
+Mechanical Design Engineer | Electric Vehicle Engineer | Battery Pack Design | BMS | CAD | MATLAB & Simulink
+</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourname&label=Profile%20views&color=0e75b6&style=flat" alt="yourname" />
-</p>
-
-## 💫 About Me:
-- 🌱 I’m currently learning **JavaScript, React JS, and Machine Learning with Python**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/)
-- 📫 How to reach me: **sample@gmail.com**
-
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="yourname"
-         height="30"
-         width="40" />
-  </a>
-</p>
-
-# 🎃 Languages and Tools:
+<img align="right" alt="EV Engineering" width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tusharbhagat107&label=Profile%20Views&color=0e75b6&style=flat" alt="tusharbhagat107" />
+</p>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"/>
-  </a>
+---
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"/>
-  </a>
+# ⚡ About Me
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"/>
-  </a>
+🚗 Mechanical Design Engineer with **5+ years of experience** in Product Design, CAD Modeling, Manufacturing Drawings, GD&T, and Product Development.
 
-  <a href="https://www.microsoft.com/en/microsoft-365" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
-      alt="ms office"
-      width="40"
-      height="40"/>
-  </a>
+🔋 Currently expanding my expertise in:
+
+- Electric Vehicle Design
+- Battery Pack Design
+- Battery Management System (BMS)
+- Electric Powertrain
+- Chassis Design
+- Suspension Design
+- Interior Design
+- MATLAB & Simulink
+- Power Electronics
+- Vehicle Dynamics
+
+💼 Experienced in
+
+- Creo Parametric
+- SolidWorks
+- Siemens NX
+- Teamcenter PLM
+- Windchill PLM
+- GD&T
+- Tolerance Stack-up Analysis
+- Design Validation
+
+🌱 Currently Learning
+
+- MATLAB
+- Simulink
+- Battery Pack Design
+- BMS Algorithms
+- EV Architecture
+- Motor Control
+- Vehicle Dynamics
+
+👨‍💻 GitHub Profile
+
+https://github.com/tusharbhagat107
+
+📫 Email
+
+**tb20140107@gmail.com**
+
+🔗 LinkedIn
+
+www.linkedin.com/in/tushar-bhagat07
+
+---
+
+# 🚘 Areas of Interest
+
+- ⚡ Electric Vehicle Engineering
+- 🔋 Battery Pack Design
+- 🔌 Battery Management System (BMS)
+- 🚗 Vehicle Architecture
+- 🛞 Chassis Design
+- 🏎 Suspension System Design
+- 🪑 Interior Trim Design
+- ⚙ Mechanical Design
+- 📐 CAD Modeling
+- 📊 MATLAB & Simulink
+- 🔄 Power Electronics
+- 📈 Vehicle Dynamics
+- 🧪 CAE & FEA
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/tushar-bhagat07" target="blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="linkedin"
+height="30"
+width="40" />
+</a>
+
+<a href="mailto:tb20140107@gmail.com">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+height="30"
+width="40"/>
+</a>
+
+<a href="https://github.com/tusharbhagat107">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+height="30"
+width="40"/>
+</a>
 
 </p>
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+---
 
-## 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🛠 CAD & Engineering Tools
 
-## 📈 GitHub Stats:
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&locale=en"
-       alt="yourname" />
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+
 </p>
 
-## 🔥 GitHub Streak:
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=yourname"
-       alt="yourname" />
-</p>
+---
+
+# 💻 Engineering Software
+
+- Creo Parametric
+- Siemens NX
+- SolidWorks
+- ANSYS
+- MATLAB
+- Simulink
+- Teamcenter PLM
+- Windchill PLM
+- AutoCAD
+
+---
+
+# ⚙ Core Skills
+
+## Electric Vehicle
+
+- Electric Vehicle Architecture
+- Battery Pack Design
+- Battery Thermal Management
+- Battery Management System (BMS)
+- Cell Balancing
+- HV Safety
+- EV Powertrain
+- Vehicle Integration
+
+## Mechanical Design
+
+- Product Design
+- Sheet Metal Design
+- Plastic Components
+- Casting Design
+- DFM
+- DFA
+- Reverse Engineering
+
+## Chassis
+
+- Ladder Frame
+- Monocoque Chassis
+- BIW Basics
+- Crash Load Paths
+- Structural Design
+
+## Suspension
+
+- Double Wishbone
+- MacPherson Strut
+- Multi-Link Suspension
+- Suspension Geometry
+- Ride & Handling
+
+## Interior
+
+- Dashboard
+- Trim Components
+- Plastic Design
+- Mounting Features
+- Ergonomics
+
+## Manufacturing
+
+- GD&T
+- Tolerance Stack-up
+- Fits & Tolerances
+- ECN/ECR
+- Design Validation
+
+---
+
+# 📚 Currently Studying
+
+✔ MATLAB Programming
+
+✔ Simulink
+
+✔ Power Electronics
+
+✔ Battery Pack Design
+
+✔ BMS Algorithms
+
+✔ EV Thermal Management
+
+✔ Motor Control
+
+✔ Vehicle Dynamics
+
+✔ Chassis Engineering
+
+✔ Suspension Engineering
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=tusharbhagat107&theme=tokyonight&show_icons=true&count_private=true)
+
+---
+
+# 📈 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbhagat107&theme=tokyonight&layout=compact)
+
+---
+
+# 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tusharbhagat107&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=tusharbhagat107&theme=tokyonight&margin-w=15)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=tusharbhagat107&theme=tokyo-night)
+
+---
+
+# 📌 Engineering Quote
+
+> "Engineering is not only about solving problems, it's about creating the future."
+
+---
+
+### ⭐ If you like my work, consider giving a Star to my repositories!
